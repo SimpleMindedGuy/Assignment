@@ -1,7 +1,12 @@
 # Assignment 
 
-to run the assignment, change directory to the project directory
-and run the command 
+to run the assignment, change directory to the project directory,and use the command to install dependancies
+
+```bash
+npm i
+```
+
+and to run the project use the command.
 
 ```bash
 npm run dev
