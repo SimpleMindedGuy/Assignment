@@ -4,13 +4,17 @@ to run the assignment, change directory to the project directory
 and run the command 
 
 ```bash
-npm run start
+npm run dev
 ```
+
 
 then you can view the page by typying  `localhost:5173` on ur browser's search bar
 
-or you can view the page by just looking into this github pages link that is made for this project.
+or you can view the page by just looking into this github pages link `[https://simplemindedguy.github.io/Assignment/](https://simplemindedguy.github.io/Assignment/)`that is made for this project.
 
+>[!note]
+>when using the githubpages link, the root/layout will only have the navigation bar, and an empty page. 
+>click on the home page to route to the home page, and render content
 
 
 ## Dsign choice
